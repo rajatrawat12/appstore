@@ -1,0 +1,17 @@
+.tab-item-container{
+margin-right:20px; 
+cursor: pointer;
+outline:none;
+/* border-bottom: 1px solid #000;
+padding-bottom: 3px; */
+text-decoration: underline;
+text-underline-offset:1rem;
+text-decoration-color:#fff1eb;
+
+
+}
+
+.active-tab-btn{
+    color:blue;
+    text-decoration-color:blue;
+}

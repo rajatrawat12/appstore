@@ -1,0 +1,17 @@
+.social-image{
+    height:5vh;
+}
+.logo-container{
+    display:flex;
+    flex-direction:column;
+    background-color: #ffffff;
+    width:20vw;
+    height:13vh;
+    margin:20px;
+   align-items: center;
+   text-align: center;
+   padding-top:10px;
+  border-radius:10px;
+    
+
+}
